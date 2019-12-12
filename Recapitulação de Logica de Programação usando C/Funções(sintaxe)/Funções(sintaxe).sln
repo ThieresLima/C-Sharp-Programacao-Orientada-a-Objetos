@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funções(sintaxe)", "Funções(sintaxe)\Funções(sintaxe).csproj", "{3A013CC8-45E7-4B9E-981A-6FD15AD34FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A013CC8-45E7-4B9E-981A-6FD15AD34FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A013CC8-45E7-4B9E-981A-6FD15AD34FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A013CC8-45E7-4B9E-981A-6FD15AD34FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A013CC8-45E7-4B9E-981A-6FD15AD34FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12C032D-ECB6-4C35-91F5-2F10260891C3}
+	EndGlobalSection
+EndGlobal
